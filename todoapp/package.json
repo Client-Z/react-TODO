@@ -33,6 +33,7 @@
     "enzyme-adapter-react-16": "^1.7.1",
     "expect": "^23.6.0",
     "jest": "^23.6.0",
-    "react-addons-test-utils": "^15.6.2"
+    "react-addons-test-utils": "^15.6.2",
+    "react-test-renderer": "^16.7.0"
   }
 }
