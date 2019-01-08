@@ -1,7 +1,7 @@
 const initState = {
   storedTodos: [
     {id: '1', content: 'Here is the same functionality as on prev todos, but in Redux handling'},
-    {id: '2', content: 'In the app are 3 reusable components. I could do 4, but it can be turned to mess as I suppose'}
+    {id: '2', content: 'The app has 3 reusable components. I could do 4, but it can be turned to mess as I suppose'}
   ]
 }
 
