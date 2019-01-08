@@ -1,0 +1,35 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  background: #fafafa;
+}
+
+.todo-app{
+  max-width: 700px;
+  margin: 20px auto;
+  padding: 10px 20px 10px;
+}
+
+.collection {
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+}
+
+.collection-item{
+  background: #fff;
+}
+
+.collection-item span {
+  display: inline-block;
+  width: 100%;
+}
+
+.collection-item span:hover{
+  cursor: pointer;
+  text-decoration: line-through;
+}
+
+form{
+  margin: 20px 10px;
+}
